@@ -19,7 +19,7 @@ export default function ChartFix(){
     return(
         <Chart
             chartType="Bar"
-            width="100%"
+            width="600px"
             height="400px"
             data={data}
             options={options}
